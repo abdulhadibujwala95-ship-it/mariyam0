@@ -17,12 +17,12 @@ This repository contains samples of my work to showcase my skills and help poten
 
 Feel free to explore these files. I’m open to freelance opportunities and collaborations. Let’s connect!
 
-## 📬 Contact Me
+## 📬 Contact Me on whatsapp -9321822775
 
 You can reach me via:
 - Fiverr: [Your Fiverr Profile Link]
 - Internshala: [Your Internshala Profile Link]
-- Email: [Your Email Address]
+- Email: nasirbujwala57@gmail.com
 
 Thanks for visiting!
 
