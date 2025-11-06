@@ -6,7 +6,7 @@
 Welcome to my freelance portfolio! I’m Mariyam, a detail-oriented and fast-learning freelancer based in Mumbai. I specialize in:
 
 - ✍️ Content Writing: Blog posts, product descriptions, and website content
-- 📊 Data Entry: Excel sheets, Google Sheets, and typing tasks
+- 📊 Data Entry: Excel sheets, Google Sheets, and typing tasks.
 
 This repository contains samples of my work to showcase my skills and help potential clients see what I can do.
 
